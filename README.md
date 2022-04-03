@@ -22,6 +22,7 @@ I am passionate about coding, solving algorithmical problems and learning about 
 
 ## My projects
   - 42school projects
+    - ft_containers - my implementation of C++ 98 STL containers. [[Repo]](https://github.com/simpleTolya/ft_containers)
     - minishell - a minimum viable version of a real shell. Stack: C. [[Repo]](https://github.com/simpleTolya/minishell)
 	- miniRT - a realization of ray tracing with planes, cylinders, spheres. Stack: C + MiniLibX.. [[Repo]](https://github.com/simpleTolya/mini-Ray-Tracing)
 	- fractol - a fractol drawing. Stack: C + MiniLibX.. [[Repo]](https://github.com/simpleTolya/fractol)
