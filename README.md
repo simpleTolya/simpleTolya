@@ -4,9 +4,9 @@ I am currently studying at e cole 42 [[Description]](https://42.fr/en/homepage/)
 I am passionate about coding, solving algorithmical problems and learning about new technologies.
 
 ## My experience
-	- Unix, Make and C, C++ 14
-	- (Some) Qt Framework
-	- Python
+  - Unix, Make and C, C++ 14
+  - (Some) Qt Framework
+  - Python
 
 ## I’m currently learning
   - C++ 20
