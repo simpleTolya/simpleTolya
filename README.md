@@ -5,6 +5,7 @@ I am passionate about coding, solving algorithmical problems and learning about 
 
 ## My experience
   - Unix, Make and C, C++ 14
+  - Java
   - (Some) Qt Framework
   - Python
 
