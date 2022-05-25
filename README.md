@@ -12,7 +12,7 @@ I am passionate about coding, solving algorithmical problems and learning about 
 ## I’m currently learning
   - C++ 20
   - Algorithms & Data Structures
-  - C#
+  - Dart & Flutter
   - Go
   - Docker
 
